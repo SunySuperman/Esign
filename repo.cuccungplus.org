@@ -55,8 +55,8 @@
       "downloadURL": "https://github.com/SunySuperman/Esign/releases/download/cuccungplus/Wolvesville.ipa",
       "developerName": "",
       "localizedDescription": "Trò chơi suy luận xã hội trực tuyến về người sói dành cho tối đa 16 người chơi. Game được tua nhanh quảng cáo để kiếm vàng và exp,
-      "icon": "https://static.wikia.nocookie.net/wwo-vietnamese/images/b/bb/WerewolfOnline.jpg/revision/latest?cb=20200118152630",
-      "iconURL": "https://static.wikia.nocookie.net/wwo-vietnamese/images/b/bb/WerewolfOnline.jpg/revision/latest?cb=20200118152630"
+      "icon": "https://play-lh.googleusercontent.com/XojjEHQhqDKSLd2w7-hX8ezxWOHaVKRBB_ytnJ8XH2Y7dE9X_UmCip6Ous9vSHgORmY=w240-h480-rw",
+      "iconURL": "https://play-lh.googleusercontent.com/XojjEHQhqDKSLd2w7-hX8ezxWOHaVKRBB_ytnJ8XH2Y7dE9X_UmCip6Ous9vSHgORmY=w240-h480-rw"
     },
     {
       "name": "Canary Mail",
