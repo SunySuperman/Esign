@@ -1,0 +1,11 @@
+{
+  "name": "IPA Repo Esign",
+  "identifier": "org.cuccungplus.repo",
+  "sourceURL": "https://repo.cuccungplus.org/",
+  "iconURL": "https://avatars.githubusercontent.com/u/45095135",
+  "website": "https://github.com/SunySuperman",
+  "subtitle": "Updated Modified IPA Library by cuccungplus",
+  "META": {
+    "repoName": "IPA Repo Esign",
+    "repoIcon": "https://avatars.githubusercontent.com/u/45095135"
+  },
