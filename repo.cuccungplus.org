@@ -60,6 +60,22 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/Mailroom.Canary-iOS.png"
     },
     {
+      "name": "Liên Quân Mobile",
+      "type": 2,
+      "bundleID": "antibanvip.make17T10",
+      "bundleIdentifier": "antibanvip.make17T10",
+      "version": "1.52.11085608",
+      "versionDate": "2024-01-13",
+      "fullDate": "20240113164911",
+      "size": 162811537,
+      "down": "https://github.com/SunySuperman/Esign/releases/download/cuccungplus/Lien.Quan.Mobile_1.52.11085608_1705195840.ipa",
+      "downloadURL": "https://github.com/SunySuperman/Esign/releases/download/cuccungplus/Lien.Quan.Mobile_1.52.11085608_1705195840.ipa",
+      "developerName": "",
+      "localizedDescription": "Garena Liên Quân Mobile là trò chơi đấu trường trận chiến trực tuyến nhiều người chơi được phát triển bởi TiMi Studio Group và được xuất bản bởi Level Infinite.",
+      "icon": "https://github.com/SunySuperman/Esign/blob/main/com.garena.game.kgvn.jpg",
+      "iconURL": "https://github.com/SunySuperman/Esign/blob/main/com.garena.game.kgvn.jpg"
+    },
+    {
       "name": "Reface",
       "type": 1,
       "bundleID": "com.neocortext.doublicatapp",
