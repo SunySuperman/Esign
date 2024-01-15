@@ -9,7 +9,7 @@
     "repoName": "SunySuperman Library",
     "repoIcon": "https://avatars.githubusercontent.com/u/45095135"
   },
-"apps": 
+  "apps": 
   [
     {
       "name": "Tom Biết Nói Của Tôi",
@@ -26,22 +26,6 @@
       "localizedDescription": "My Talking Tom là một ứng dụng thú nuôi ảo được Outfit7 phát triển vào tháng 11 năm 2013. Game đã được mod full vàng tiền.",
       "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.outfit7.mytalkingtom.arcade.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.outfit7.mytalkingtom.arcade.png"
-    },
-    {
-      "name": "Cowabunga",
-      "type": 1,
-      "bundleID": "com.leemin.Cowabunga.857M5SCT9F",
-      "bundleIdentifier": "com.leemin.Cowabunga.857M5SCT9F",
-      "version": "10.3.2",
-      "versionDate": "2024-01-14",
-      "fullDate": "20240114184819",
-      "size": 16182419,
-      "down": "https://github.com/SunySuperman/Esign/releases/download/cuccungplus/Cowabunga.ipa",
-      "downloadURL": "https://github.com/SunySuperman/Esign/releases/download/cuccungplus/Cowabunga.ipa",
-      "developerName": "",
-      "localizedDescription": "Cowabunga (CON BÒ) - Ứng dụng dành cho iOS 14.0-15.7.1 và 16.0-16.1.2 sử dụng CVE-2022-46689.",
-      "icon": "https://user-images.githubusercontent.com/52459150/215552092-9dc1e029-da35-43da-867f-17279e3dc180.png",
-      "iconURL": "https://user-images.githubusercontent.com/52459150/215552092-9dc1e029-da35-43da-867f-17279e3dc180.png"
     },
     {
       "name": "Canary Mail",
