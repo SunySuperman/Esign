@@ -72,8 +72,8 @@
       "downloadURL": "https://github.com/SunySuperman/Esign/releases/download/cuccungplus/Lien.Quan.Mobile_1.52.11085608_1705195840.ipa",
       "developerName": "",
       "localizedDescription": "Garena Liên Quân Mobile là trò chơi đấu trường trận chiến trực tuyến nhiều người chơi được phát triển bởi TiMi Studio Group và được xuất bản bởi Level Infinite.",
-      "icon": "https://github.com/SunySuperman/Esign/blob/main/com.garena.game.kgvn.jpg",
-      "iconURL": "https://github.com/SunySuperman/Esign/blob/main/com.garena.game.kgvn.jpg"
+      "icon": "https://github.com/SunySuperman/Esign/blob/main/icon/LQM.png?raw=true",
+      "iconURL": "https://github.com/SunySuperman/Esign/blob/main/icon/LQM.png?raw=true"
     },
     {
       "name": "Reface",
