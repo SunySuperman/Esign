@@ -43,7 +43,7 @@
       "iconURL": "https://user-images.githubusercontent.com/52459150/215552092-9dc1e029-da35-43da-867f-17279e3dc180.png"
     },
     {
-      "name": "Canary",
+      "name": "Canary Mail",
       "type": 1,
       "bundleID": "Mailroom.Canary-iOS",
       "bundleIdentifier": "Mailroom.Canary-iOS",
@@ -54,7 +54,7 @@
       "down": "https://github.com/apptesters-org/Repo/releases/download/01-08-2023/Canary_4.12_Pro_%40asdfzxcvbn0_apptesters.org.ipa",
       "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/01-08-2023/Canary_4.12_Pro_%40asdfzxcvbn0_apptesters.org.ipa",
       "developerName": "",
-      "localizedDescription": "Injected with Pro",
+      "localizedDescription": "Canary Mail là ứng dụng email cung cấp khả năng trí tuệ nhân tạo được hỗ trợ bởi công nghệ của OpenAI & Cohere, cũng như các mô hình ngôn ngữ nguồn mở từ Hugging Face.",
       "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/Mailroom.Canary-iOS.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/Mailroom.Canary-iOS.png"
     }
