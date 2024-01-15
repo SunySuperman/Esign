@@ -27,6 +27,22 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.outfit7.mytalkingtom.arcade.png"
     },
     {
+      "name": "Cowabunga",
+      "type": 2,
+      "bundleID": "com.outfit7.mytalkingtom.arcade",
+      "bundleIdentifier": "com.outfit7.mytalkingtom.arcade",
+      "version": "10.3.2",
+      "versionDate": "2024-01-14",
+      "fullDate": "20240114184819",
+      "size": 16182419,
+      "down": "https://github.com/SunySuperman/Esign/releases/download/cuccungplus/Cowabunga-V10.3.2.ipa",
+      "downloadURL": "https://github.com/SunySuperman/Esign/releases/download/cuccungplus/Cowabunga-V10.3.2.ipa",
+      "developerName": "",
+      "localizedDescription": "Con bò tinh chỉnh đủ kiểu.",
+      "icon": "https://user-images.githubusercontent.com/52459150/215552092-9dc1e029-da35-43da-867f-17279e3dc180.png",
+      "iconURL": "https://user-images.githubusercontent.com/52459150/215552092-9dc1e029-da35-43da-867f-17279e3dc180.png"
+    },
+    {
       "name": "Canary",
       "type": 1,
       "bundleID": "Mailroom.Canary-iOS",
