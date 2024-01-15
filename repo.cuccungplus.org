@@ -28,6 +28,22 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.outfit7.mytalkingtom.arcade.png"
     },
     {
+      "name": "Liên Quân Mobile",
+      "type": 2,
+      "bundleID": "antibanvip.make17T10",
+      "bundleIdentifier": "antibanvip.make17T10",
+      "version": "1.52.11085608",
+      "versionDate": "2024-01-13",
+      "fullDate": "20240113164911",
+      "size": 162811537,
+      "down": "https://github.com/SunySuperman/Esign/releases/download/cuccungplus/Lien.Quan.Mobile_1.52.11085608_1705195840.ipa",
+      "downloadURL": "https://github.com/SunySuperman/Esign/releases/download/cuccungplus/Lien.Quan.Mobile_1.52.11085608_1705195840.ipa",
+      "developerName": "",
+      "localizedDescription": "Garena Liên Quân Mobile là trò chơi đấu trường trận chiến trực tuyến nhiều người chơi được phát triển bởi TiMi Studio Group và được xuất bản bởi Level Infinite.",
+      "icon": "https://github.com/SunySuperman/Esign/blob/main/icon/LQM.png?raw=true",
+      "iconURL": "https://github.com/SunySuperman/Esign/blob/main/icon/LQM.png?raw=true"
+    },
+    {
       "name": "Cowabunga",
       "type": 1,
       "bundleID": "com.leemin.Cowabunga.857M5SCT9F",
@@ -58,22 +74,6 @@
       "localizedDescription": "Canary Mail là ứng dụng email cung cấp khả năng trí tuệ nhân tạo được hỗ trợ bởi công nghệ của OpenAI & Cohere, cũng như các mô hình ngôn ngữ nguồn mở từ Hugging Face.",
       "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/Mailroom.Canary-iOS.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/Mailroom.Canary-iOS.png"
-    },
-    {
-      "name": "Liên Quân Mobile",
-      "type": 2,
-      "bundleID": "antibanvip.make17T10",
-      "bundleIdentifier": "antibanvip.make17T10",
-      "version": "1.52.11085608",
-      "versionDate": "2024-01-13",
-      "fullDate": "20240113164911",
-      "size": 162811537,
-      "down": "https://github.com/SunySuperman/Esign/releases/download/cuccungplus/Lien.Quan.Mobile_1.52.11085608_1705195840.ipa",
-      "downloadURL": "https://github.com/SunySuperman/Esign/releases/download/cuccungplus/Lien.Quan.Mobile_1.52.11085608_1705195840.ipa",
-      "developerName": "",
-      "localizedDescription": "Garena Liên Quân Mobile là trò chơi đấu trường trận chiến trực tuyến nhiều người chơi được phát triển bởi TiMi Studio Group và được xuất bản bởi Level Infinite.",
-      "icon": "https://github.com/SunySuperman/Esign/blob/main/icon/LQM.png?raw=true",
-      "iconURL": "https://github.com/SunySuperman/Esign/blob/main/icon/LQM.png?raw=true"
     },
     {
       "name": "Reface",
