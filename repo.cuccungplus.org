@@ -29,7 +29,7 @@
     },
     {
       "name": "Cowabunga",
-      "type": 3,
+      "type": 1,
       "bundleID": "com.leemin.Cowabunga.857M5SCT9F",
       "bundleIdentifier": "com.leemin.Cowabunga.857M5SCT9F",
       "version": "10.3.2",
@@ -71,7 +71,7 @@
       "down": "https://github.com/apptesters-org/Repo/releases/download/13-01-2024/Reface_4.1.0_Premium_%40thisismanpreets_apptesters.org.ipa",
       "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/13-01-2024/Reface_4.1.0_Premium_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
-      "localizedDescription": "Injected with Premium",
+      "localizedDescription": "Ứng dụng hoán đổi khuôn mặt AI - Mod Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.neocortext.doublicatapp.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.neocortext.doublicatapp.png"
     }
