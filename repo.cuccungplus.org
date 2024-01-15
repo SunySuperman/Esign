@@ -11,7 +11,7 @@
   },
 "apps": [
     {
-      "name": "MyTom",
+      "name": "Tom Biết Nói Của Tôi",
       "type": 2,
       "bundleID": "com.outfit7.mytalkingtom.arcade",
       "bundleIdentifier": "com.outfit7.mytalkingtom.arcade",
