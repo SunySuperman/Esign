@@ -29,7 +29,7 @@
     },
     {
       "name": "Cowabunga",
-      "type": 1,
+      "type": 3,
       "bundleID": "com.leemin.Cowabunga.857M5SCT9F",
       "bundleIdentifier": "com.leemin.Cowabunga.857M5SCT9F",
       "version": "10.3.2",
