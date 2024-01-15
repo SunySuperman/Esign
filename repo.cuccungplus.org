@@ -29,7 +29,7 @@
     },
     {
       "name": "Wolvesville - Ma sói",
-      "type": 2,
+      "type": 1,
       "bundleID": "com.werewolfapps.online",
       "bundleIdentifier": "com.werewolfapps.online",
       "version": "10.3.2",
