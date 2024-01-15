@@ -22,15 +22,15 @@
       "down": "https://github.com/apptesters-org/Repo/releases/download/14-01-2024/MyTom_1.1.3_UnlimitedMoneyandCash_%40thisismanpreets_apptesters.org.ipa",
       "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/14-01-2024/MyTom_1.1.3_UnlimitedMoneyandCash_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
-      "localizedDescription": "Injected with UnlimitedMoneyandCash",
+      "localizedDescription": "My Talking Tom là một ứng dụng thú nuôi ảo được Outfit7 phát triển vào tháng 11 năm 2013. Game đã được mod full vàng tiền.",
       "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.outfit7.mytalkingtom.arcade.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.outfit7.mytalkingtom.arcade.png"
     },
     {
       "name": "Cowabunga",
       "type": 2,
-      "bundleID": "com.outfit7.mytalkingtom.arcade",
-      "bundleIdentifier": "com.outfit7.mytalkingtom.arcade",
+      "bundleID": "com.leemin.Cowabunga.857M5SCT9F",
+      "bundleIdentifier": "com.leemin.Cowabunga.857M5SCT9F",
       "version": "10.3.2",
       "versionDate": "2024-01-14",
       "fullDate": "20240114184819",
