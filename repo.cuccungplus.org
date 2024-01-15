@@ -38,7 +38,7 @@
       "down": "https://github.com/SunySuperman/Esign/releases/download/cuccungplus/Cowabunga-V10.3.2.ipa",
       "downloadURL": "https://github.com/SunySuperman/Esign/releases/download/cuccungplus/Cowabunga-V10.3.2.ipa",
       "developerName": "",
-      "localizedDescription": "Con bò tinh chỉnh đủ kiểu.",
+      "localizedDescription": "Cowabunga (CON BÒ) - Ứng dụng dành cho iOS 14.0-15.7.1 và 16.0-16.1.2 sử dụng CVE-2022-46689 .",
       "icon": "https://user-images.githubusercontent.com/52459150/215552092-9dc1e029-da35-43da-867f-17279e3dc180.png",
       "iconURL": "https://user-images.githubusercontent.com/52459150/215552092-9dc1e029-da35-43da-867f-17279e3dc180.png"
     },
