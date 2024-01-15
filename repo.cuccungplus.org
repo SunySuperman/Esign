@@ -28,6 +28,22 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.outfit7.mytalkingtom.arcade.png"
     },
     {
+      "name": "Wolvesville - Ma sói",
+      "type": 2,
+      "bundleID": "com.werewolfapps.online",
+      "bundleIdentifier": "com.werewolfapps.online",
+      "version": "10.3.2",
+      "versionDate": "2024-01-14",
+      "fullDate": "20240114184819",
+      "size": 361070349,
+      "down": "https://github.com/SunySuperman/Esign/releases/download/cuccungplus/Wolvesville.ipa",
+      "downloadURL": "https://github.com/SunySuperman/Esign/releases/download/cuccungplus/Wolvesville.ipa",
+      "developerName": "",
+      "localizedDescription": "Trò chơi suy luận xã hội trực tuyến về người sói dành cho tối đa 16 người chơi. Game được tua nhanh quảng cáo để kiếm vàng và exp,
+      "icon": "https://play-lh.googleusercontent.com/XojjEHQhqDKSLd2w7-hX8ezxWOHaVKRBB_ytnJ8XH2Y7dE9X_UmCip6Ous9vSHgORmY=w240-h480-rw",
+      "iconURL": "https://play-lh.googleusercontent.com/XojjEHQhqDKSLd2w7-hX8ezxWOHaVKRBB_ytnJ8XH2Y7dE9X_UmCip6Ous9vSHgORmY=w240-h480-rw"
+    },
+    {
       "name": "Canary Mail",
       "type": 1,
       "bundleID": "Mailroom.Canary-iOS",
