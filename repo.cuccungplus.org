@@ -74,6 +74,22 @@
       "localizedDescription": "Trò chơi suy luận xã hội trực tuyến về người sói dành cho tối đa 16 người chơi. Game được tua nhanh quảng cáo để kiếm vàng và exp,
       "icon": "https://play-lh.googleusercontent.com/XojjEHQhqDKSLd2w7-hX8ezxWOHaVKRBB_ytnJ8XH2Y7dE9X_UmCip6Ous9vSHgORmY=w240-h480-rw",
       "iconURL": "https://play-lh.googleusercontent.com/XojjEHQhqDKSLd2w7-hX8ezxWOHaVKRBB_ytnJ8XH2Y7dE9X_UmCip6Ous9vSHgORmY=w240-h480-rw"
+    },
+    {
+      "name": "Reface",
+      "type": 1,
+      "bundleID": "com.neocortext.doublicatapp",
+      "bundleIdentifier": "com.neocortext.doublicatapp",
+      "version": "4.1.0",
+      "versionDate": "2024-01-13",
+      "fullDate": "20240113164911",
+      "size": 54716214,
+      "down": "https://github.com/apptesters-org/Repo/releases/download/13-01-2024/Reface_4.1.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/13-01-2024/Reface_4.1.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.neocortext.doublicatapp.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.neocortext.doublicatapp.png"
     }
   ]
 }
